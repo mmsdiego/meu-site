@@ -1,0 +1,28 @@
+{
+  "name": "meu-site",
+  "description": "Meu portfolio",
+  "main": "assets/js/main.js",
+  "moduleType": [],
+  "keywords": [
+    "Diego",
+    "Martins",
+    "Portfolio"
+  ],
+  "authors": [
+    "Diego Martins"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mmsdiego/meu-site",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6"
+  }
+}

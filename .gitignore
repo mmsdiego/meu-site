@@ -1,0 +1,5 @@
+#ignorar arquivos do Windows
+Thumbs.db
+ 
+#ignorar a pasta libs
+assets/libs/
